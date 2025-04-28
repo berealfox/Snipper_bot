@@ -1,1 +1,8 @@
-# resume
+## Hi, I'm Alfred. Nice to meet you!
+
+I would like to express my interesting in joining your company in a software engineering role. With over 18 years of full-stack development experience and a strong background in leading high-performing, distributed engineering teams, I bring a balance of hands-on technical skill and proven leadership that aligns well with the dynamic needs of modern software organizations.
+Most recently at Plexus, I successfully managed three cross-continental teams, driving development using technologies such as Node, React, and Next.js. Prior to that, I spent over a decade at Nextiva, where I advanced from Software Engineer to Engineering Manager. In that time, I spearheaded key initiatives like introducing a robust design system with Storybook, decomposing a monolithic architecture into scalable micro services, and launching new analytics products. I also played a key role in hiring and mentoring engineers at all levels.
+
+As a developer, I pride myself on writing clean, testable code and staying adaptable across tech stacks—including JavaScript, TypeScript, Python, PHP, and Java. As a leader, I thrive in environments that value collaboration, continuous improvement, and delivering high-quality software with measurable business impact.
+
+I am excited about the opportunity to contribute my experience and passion to a forward-thinking team. Thank you for taking the time to get to know more about me. I would welcome the chance to further discuss how my background aligns with your needs.
